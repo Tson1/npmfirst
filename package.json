@@ -11,6 +11,10 @@
     "publish",
     "test"
   ],
+  "repository": {
+  "type" : "git",
+  "url" : "https://github.com/Tson1/npmfirst.git"
+  }
   "author": "tson1",
   "license": "MIT"
 }
