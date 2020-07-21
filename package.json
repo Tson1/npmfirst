@@ -1,6 +1,6 @@
 {
   "name": "@tson1/npmfirst",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "npm test empty app",
   "main": "index.js",
   "scripts": {
@@ -12,8 +12,8 @@
     "test"
   ],
   "repository": {
-  "type" : "git",
-  "url" : "https://github.com/Tson1/npmfirst.git"
+    "type": "git",
+    "url": "https://github.com/Tson1/npmfirst.git"
   },
   "author": "tson1",
   "license": "MIT"
