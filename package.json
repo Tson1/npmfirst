@@ -1,0 +1,16 @@
+{
+  "name": "@tson1/npmfirst",
+  "version": "1.0.2",
+  "description": "npm test empty app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "publish",
+    "test"
+  ],
+  "author": "tson1",
+  "license": "MIT"
+}
